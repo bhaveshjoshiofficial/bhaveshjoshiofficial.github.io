@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The programmer, who Develop applications using logic's and creativity
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bhaveshjoshiofficial@gmail.com](mailto:bhaveshjoshiofficial@gmail.com)
